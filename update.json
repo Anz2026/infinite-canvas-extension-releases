@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
   "release": {
-    "id": 407520070,
-    "tag_name": "v0.4.0",
+    "id": 407586218,
+    "tag_name": "v0.4.0.1",
     "draft": false,
     "prerelease": false,
-    "html_url": "https://github.com/Anz2026/infinite-canvas-extension-releases/releases/tag/v0.4.0",
-    "published_at": "2026-10-09T04:51:31Z",
-    "body": "+ [优化] 精简版本更新历史，保留实际功能变更。",
+    "html_url": "https://github.com/Anz2026/infinite-canvas-extension-releases/releases/tag/v0.4.0.1",
+    "published_at": "2026-10-09T06:21:27Z",
+    "body": "+ [调整] 发布版本更新测试包，功能与 v0.4.0 保持一致。",
     "assets": [
       {
-        "id": 623928770,
-        "name": "ic-extension-0.4.0.zip",
+        "id": 624096156,
+        "name": "ic-extension-0.4.0.1.zip",
         "state": "uploaded",
-        "size": 1550972,
-        "browser_download_url": "https://github.com/Anz2026/infinite-canvas-extension-releases/releases/download/v0.4.0/ic-extension-0.4.0.zip"
+        "size": 1550974,
+        "browser_download_url": "https://github.com/Anz2026/infinite-canvas-extension-releases/releases/download/v0.4.0.1/ic-extension-0.4.0.1.zip"
       }
     ]
   }
