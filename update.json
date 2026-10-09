@@ -10,10 +10,10 @@
     "body": "+ [调整] 发布版本更新测试包，功能与 v0.4.0 保持一致。",
     "assets": [
       {
-        "id": 624096156,
+        "id": 624104307,
         "name": "ic-extension-0.4.0.1.zip",
         "state": "uploaded",
-        "size": 1550974,
+        "size": 1551012,
         "browser_download_url": "https://github.com/Anz2026/infinite-canvas-extension-releases/releases/download/v0.4.0.1/ic-extension-0.4.0.1.zip"
       }
     ]
