@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
   "release": {
-    "id": 407495356,
-    "tag_name": "v0.3.10.1",
+    "id": 407508740,
+    "tag_name": "v0.3.10.2",
     "draft": false,
     "prerelease": false,
-    "html_url": "https://github.com/Anz2026/infinite-canvas-extension-releases/releases/tag/v0.3.10.1",
-    "published_at": "2026-10-09T04:04:44Z",
-    "body": "+ [调整] 发布版本更新测试包，功能与 v0.3.10 保持一致。\n\n下载完整扩展包后解压并替换原加载目录，再重新加载原扩展。保留同一浏览器配置和扩展 ID，不卸载或清理数据。\n",
+    "html_url": "https://github.com/Anz2026/infinite-canvas-extension-releases/releases/tag/v0.3.10.2",
+    "published_at": "2026-10-09T04:27:35Z",
+    "body": "+ [修复] 下载器接管造成的浏览器取消状态显示为结果待确认，避免误报下载失败。\n\n+ [优化] 版本更新窗口的下载按钮与版本号同行显示，隐藏安装包名称。\n\n启动画布会自动检查更新，有新版时在版本号旁显示提示；不会自动下载。\n\n下载完整 ZIP 后解压并替换原加载目录，再重新加载原扩展。保留同一浏览器配置和扩展 ID，不卸载或清理数据。\n",
     "assets": [
       {
-        "id": 623842912,
-        "name": "ic-extension-0.3.10.1.zip",
+        "id": 623884280,
+        "name": "ic-extension-0.3.10.2.zip",
         "state": "uploaded",
-        "size": 1551054,
-        "browser_download_url": "https://github.com/Anz2026/infinite-canvas-extension-releases/releases/download/v0.3.10.1/ic-extension-0.3.10.1.zip"
+        "size": 1551271,
+        "browser_download_url": "https://github.com/Anz2026/infinite-canvas-extension-releases/releases/download/v0.3.10.2/ic-extension-0.3.10.2.zip"
       }
     ]
   }
