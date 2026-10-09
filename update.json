@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "release": {
+    "id": 407478082,
+    "tag_name": "v0.3.10",
+    "draft": false,
+    "prerelease": false,
+    "html_url": "https://github.com/Anz2026/infinite-canvas-extension-releases/releases/tag/v0.3.10",
+    "published_at": "2026-10-09T03:58:25Z",
+    "body": "+ [优化] 更新检查改为读取公开分发仓库的静态清单，避免 GitHub REST API 匿名请求限流。\n\n+ [优化] 简化版本更新窗口，移除查看发布页入口。\n\n+ [新增] 版本更新窗口支持从独立公开分发仓库检查正式版本并下载完整扩展包，显示下载状态和手动更新指引。\n\n## 下载与安装\n\n下载 `ic-extension-0.3.10.zip`，不要下载 Source code 归档。首次安装时解压，并在浏览器扩展管理页开启开发者模式，加载包含 `manifest.json` 的目录。\n\n已有用户请等待当前任务结束，关闭画布页，先导出重要画布并备份原扩展目录。将新版文件替换到原加载目录，再重新加载原扩展；保留同一浏览器配置，不卸载扩展或清理浏览器数据。\n\nZIP 根目录包含扩展 manifest、前端资源以及 Windows／macOS Native Host、Photoshop UXP／CEP、C4D 桥接安装包。附带 `.sha256` 文件供手工核对。\n",
+    "assets": [
+      {
+        "id": 623830223,
+        "name": "ic-extension-0.3.10.zip",
+        "state": "uploaded",
+        "size": 1551018,
+        "browser_download_url": "https://github.com/Anz2026/infinite-canvas-extension-releases/releases/download/v0.3.10/ic-extension-0.3.10.zip"
+      }
+    ]
+  }
+}
