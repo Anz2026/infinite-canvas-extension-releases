@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
   "release": {
-    "id": 407586218,
-    "tag_name": "v0.4.0.1",
+    "id": 407787239,
+    "tag_name": "v0.4.1",
     "draft": false,
     "prerelease": false,
-    "html_url": "https://github.com/Anz2026/infinite-canvas-extension-releases/releases/tag/v0.4.0.1",
-    "published_at": "2026-10-09T06:21:27Z",
-    "body": "+ [调整] 发布版本更新测试包，功能与 v0.4.0 保持一致。",
+    "html_url": "https://github.com/Anz2026/infinite-canvas-extension-releases/releases/tag/v0.4.1",
+    "published_at": "2026-10-09T10:06:01Z",
+    "body": "+ [新增] 即梦图像设置支持多个账号，以用户名按钮切换，通过无痕登录保存账号，进行中的任务保持原账号。\n+ [新增] 自动轮换按钮右键可选“积分不足轮换账号”（默认）或“每次任务轮换账号”，并记住偏好。\n+ [修复] 即梦任务快速失焦时正常提交，并发任务各自保持生成中与停止按钮状态。\n+ [优化] 添加账号使用圆形图标按钮并聚焦登录窗口，精简提示，空账号时隐藏模型参数。\n+ [修复] 图像设置面板右键不再触发画布菜单，账号和自动轮换菜单正常使用。\n",
     "assets": [
       {
-        "id": 624104307,
-        "name": "ic-extension-0.4.0.1.zip",
+        "id": 624586060,
+        "name": "ic-extension-0.4.1.zip",
         "state": "uploaded",
-        "size": 1551012,
-        "browser_download_url": "https://github.com/Anz2026/infinite-canvas-extension-releases/releases/download/v0.4.0.1/ic-extension-0.4.0.1.zip"
+        "size": 1694009,
+        "browser_download_url": "https://github.com/Anz2026/infinite-canvas-extension-releases/releases/download/v0.4.1/ic-extension-0.4.1.zip"
       }
     ]
   }
