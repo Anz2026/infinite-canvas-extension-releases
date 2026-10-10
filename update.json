@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
   "release": {
-    "id": 407787239,
-    "tag_name": "v0.4.1",
+    "id": 408723443,
+    "tag_name": "v0.4.2",
     "draft": false,
     "prerelease": false,
-    "html_url": "https://github.com/Anz2026/infinite-canvas-extension-releases/releases/tag/v0.4.1",
-    "published_at": "2026-10-09T10:06:01Z",
-    "body": "+ [新增] 即梦图像设置支持多个账号，以用户名按钮切换，通过无痕登录保存账号，进行中的任务保持原账号。\n+ [新增] 自动轮换按钮右键可选“积分不足轮换账号”（默认）或“每次任务轮换账号”，并记住偏好。\n+ [修复] 即梦任务快速失焦时正常提交，并发任务各自保持生成中与停止按钮状态。\n+ [优化] 添加账号使用圆形图标按钮并聚焦登录窗口，精简提示，空账号时隐藏模型参数。\n+ [修复] 图像设置面板右键不再触发画布菜单，账号和自动轮换菜单正常使用。\n",
+    "html_url": "https://github.com/Anz2026/infinite-canvas-extension-releases/releases/tag/v0.4.2",
+    "published_at": "2026-10-10T06:23:19Z",
+    "body": "- [调整] 新画布默认启用网格吸附、使用点网格并显示图片信息，保留已有设置。\n\n- [优化] 豆包图片模型按当前账号动态获取并按权限分组，画布提示词不再自动追加比例说明。\n\n+ [优化] 豆包多账号面板顶部显示当前账号，随手动切换和自动轮换同步更新。\n+ [修复] 豆包无痕登录识别 sessionid_ss，等待窗口实际关闭后保存账号，并在登录前检查本地代理版本。\n+ [修复] 补齐豆包和即梦的账号、上传及图片下载域名权限，解决无痕登录等待和参考图上传地址未授权。\n+ [调整] 移除图片节点失败、批量卡片和悬浮工具栏中的重试按钮。\n+ [优化] 豆包多账号支持独立无痕登录、账号管理和任务轮换，设置按钮与即梦共用宽度规则。\n\n+ [优化] 豆包图片设置沿用即梦布局，精简尺寸、分辨率与风格，支持按张数生成并使用官方图标。\n\n+ [新增] 豆包AI网页生图渠道，支持多参考图、模型/比例设置、无水印原图及可选多账号轮换。\n",
     "assets": [
       {
-        "id": 624586060,
-        "name": "ic-extension-0.4.1.zip",
+        "id": 627192028,
+        "name": "ic-extension-0.4.2.zip",
         "state": "uploaded",
-        "size": 1694009,
-        "browser_download_url": "https://github.com/Anz2026/infinite-canvas-extension-releases/releases/download/v0.4.1/ic-extension-0.4.1.zip"
+        "size": 1727384,
+        "browser_download_url": "https://github.com/Anz2026/infinite-canvas-extension-releases/releases/download/v0.4.2/ic-extension-0.4.2.zip"
       }
     ]
   }
